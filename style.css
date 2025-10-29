@@ -1,0 +1,94 @@
+/* Temel Ayarlar */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5; /* Sayfanın dış arka planı */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* İçeriği ortalamak için */
+}
+
+/* ÖDEV ŞARTI: 1440px Ana Kutu */
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto; /* Otomatik ortalar */
+    background-color: #ffffff; /* Sitenin iç arka planı */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* 1. Header (Logo ve Menü) */
+.header {
+    display: flex;
+    justify-content: space-between; /* Sağa ve sola yaslar */
+    align-items: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #eee;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #0056b3; /* Logoyu yazı olarak renklendirdik */
+}
+
+.navigation a {
+    margin-left: 25px;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+}
+
+/* 2. Hero (Ana Resim) */
+.hero {
+    position: relative; /* Yazıyı resmin üzerine koymak için */
+    text-align: center;
+    color: white;
+}
+
+.hero img {
+    width: 100%; /* Resmin 1440px'i doldurmasını sağlar */
+    height: 450px;
+    object-fit: cover; /* Resmi kırpma olmadan sığdırır */
+    display: block;
+    filter: brightness(0.7); /* Resmi biraz kararttık ki yazı okunsun */
+}
+
+.hero h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+}
+
+/* 3. Özellikler Alanı */
+.features {
+    display: flex;
+    justify-content: space-around; /* Kutuları eşit dağıtır */
+    padding: 50px 40px;
+}
+
+.feature-box {
+    width: 30%;
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.feature-box h3 {
+    color: #0056b3;
+}
+
+/* 4. Footer (Alt Bilgi) */
+.footer {
+    text-align: center;
+    padding: 30px;
+    border-top: 1px solid #eee;
+    background-color: #f8f8f8;
+    color: #777;
+    margin-top: 30px;
+}
