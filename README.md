@@ -1,3 +1,7 @@
+
+### Alper Açıkgöz, bigisayar mühendisliği öğrencisi olduğum için ödevin buradan göndermenin daha güzel duracağını düşündüm, tasarımı canva da yapıp koda uyarladım. 
+
+
 <img width="2592" height="1432" alt="image" src="https://github.com/user-attachments/assets/c00c8447-df25-41eb-909c-bfdf3be07122" /># NovaTech - Web Tasarımı Eğitimi Projesi (1440px)
 
 Bu proje, **Web Tasarımı Eğitimi** kapsamında verilen ödev gereksinimlerini karşılamak amacıyla oluşturulmuştur. Kurgusal bir teknoloji markası olan "NovaTech" için modern, duyarlı (responsive) ve 1440 piksel genişlik şartına uygun bir anasayfa "mockup" (yüksek detaylı prototip) çalışmasıdır.
@@ -10,16 +14,7 @@ Bu proje, **Web Tasarımı Eğitimi** kapsamında verilen ödev gereksinimlerini
 Projenin 1440px genişliğindeki genel görünümü:
 <img width="2592" height="1432" alt="image" src="https://github.com/user-attachments/assets/e0e7c1b0-7fb0-4399-8ccf-6e1def12ae54" />
 
-![NovaTech Anasayfa Önizlemesi]([...<img width="2592" height="1432" alt="image" src="https://github.com/user-attachments/assets/e0e7c1b0-7fb0-4399-8ccf-6e1def12ae54" />...])
 
-**Önemli Not:** Yukarıdaki ekran görüntüsü linkini eklemek için:
-1.  Projenizin (tarayıcıda açıkken) tam sayfa ekran görüntüsünü alın.
-2.  Bu GitHub projesinin "Issues" (Sorunlar) sekmesine gidin.
-3.  "New Issue" (Yeni Sorun) deyin.
-4.  Aldığınız ekran görüntüsü dosyasını sürükleyip metin kutusuna bırakın. GitHub resmi yükleyecek ve size bir `https://...` linki verecektir.
-5.  O linki kopyalayıp yukarıdaki `(...)` içine yapıştırın. (Issue'yu oluşturmanıza gerek yok, linki alıp sayfadan çıkabilirsiniz).
-
----
 
 ## 📝 Ödev Tanımı ve Gereksinimler
 
